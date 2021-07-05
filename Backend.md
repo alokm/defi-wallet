@@ -17,14 +17,12 @@ This page covers a series of recommendations for backend improvements designed t
 ## Backend Product Operations Improvements
 
 ### User Persona Model
-- Three personas by ability
-	- *Median Users* - the median of users for the device or platform
-	- *Casual Users* - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
-	- *Power Users* - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (<50% of users are power)
-- Three personas by experience
-	- *Noobs* new users to Liquality who have yet to become stuck on the product
-	- *MID* median users for the device or platform by age of account
-	- *EXP* experienced active users on Liquality who make up our most loyal users
+- Two personas by ability
+  - *Casual Users* - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
+  - *Power Users* - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (<50% of users are power)
+- Two personas by experience
+  - *Noobs* new users to Liquality who have yet to become stuck on the product
+  - *EXP* experienced active users on Liquality who make up our most loyal users
 
 ### Instrument the App
 - Install Product Analytics Stack
