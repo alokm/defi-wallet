@@ -1,6 +1,10 @@
 # defi-wallet Product Proposal
 defi-wallet is building a wallet that offers users access to a new fully decentralized world. This idea of sovereign control over one’s money and all the benefits and responsibilities that go with it, is a powerful one but today it is mostly a vision for most, not a reality. 
 
+## Problem Statement
+
+This is the problem facing defi-wallet
+
 **Question:** Who uses non-custodial cross-chain cryptocurrency wallets today?
 **Answer:**
 - cypherpunks - Satoshi and friends
