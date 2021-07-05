@@ -4,18 +4,14 @@ Below are several suggestions for product roadmap candidates designed to drive s
 
 ## Liquality Roadmap Candidates - Summary
 
- 1. *Support more coins* - continue with current strategy 
- 2. *Your gateway to deFi* - product messaging strategy to reach new users 
- 3. *Save your seed* - product feature to build trust and drive virality
- 4. *What is deFi?* - product education strategy to support new user growth
- 5. *Name your wallet* - product renaming powered by the community
+ 1. *Your gateway to deFi* - product messaging strategy to reach new users 
+ 2. *Save your seed* - product feature to build trust and drive virality
+ 3. *What is deFi?* - product education strategy to support new user growth
+ 4. *Name your wallet* - product renaming powered by the community
  
 ## Liquality Roadmap Candidates - Details
 
-###  1. Support more coins
-Continue with the current strategy of adding new coins and protocols based on community input and market demand - no immediate changes but look for more fiat onramps as partners emerge.
-
-### 2. Your gateway to deFi
+### 1. Your gateway to deFi
 A small pivot on product messaging strategy away from individual features and towards a vision relevant to our next 1 million users
 
 **Enabling economic freedom and empowerment through access to open and interoperable decentralized monetary networks.**
@@ -36,7 +32,7 @@ A small pivot on product messaging strategy away from individual features and to
  - casual users can ..
  - power users can ..
 
-### 3. Save your seed
+### 2. Save your seed
 Multi-user seed phrase backup and recovery strategy
 
 **Problem: How do I backup my seed phrase and password?**
@@ -61,14 +57,14 @@ Liquality should offer a better solution. One that stores seed phrases securely 
 * The point is not to propose this as a solution to the problem. Instead it is to propose this problem as a worthy one of going deep on together.
 
 
-### 4. What is deFi?
+### 3. What is deFi?
 Build a web gateway to deFi for normals that provides an encyclopedia-like experience on crypto offerings and acts as a funnel to channel users from no-coiners to deFi maximalists. Optionally license content and data from a 3rd party like Messari.io or alternative
 **Problem**
 Most of Liquality’s future users are not yet mature enough on their DeFi lifecycle of knowledge, to be able to be great long-term users. We need to build our users by helping them navigate the complex and fast evolving distributed finance landscape. This is how we will win the hearts and minds of new DeFi-curious users and how Liquality will grow its user base by 100x.
 **Solution**
 A content-rich website that takes a complete noob through the process of understanding *What is deFi?*. Beginning understanding the benefits and risks of each currency Liquality supports, how they work, and what traditional options they replace. This will help serve as an ongoing inbound content marketing funnel to attract and retain an educated user who will understand how to take full advantage of their Liquality wallet.
 
-### 5. Name your wallet
+### 4. Name your wallet
 Community engagement in renaming Liquality
 I think the Liquality name could be replaced with something stronger. I believe the community could help us rename the wallet. I propose we build a feature that allows the community to collaborate on the renaming. It would include a leaderboard for voting and comments as well as the ability for users to choose a name from the leaderboard that would re-brand the app and allow users to vote for their preference while signaling for their preference.
 **Why it is a good idea**
