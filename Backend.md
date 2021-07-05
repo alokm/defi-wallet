@@ -23,6 +23,9 @@ This page covers a series of recommendations for backend improvements designed t
 - Two personas by experience
   - *Noobs* new users to Liquality who have yet to become stuck on the product
   - *EXP* experienced active users on Liquality who make up our most loyal users
+- Two personas by size of wallet
+  - *honey badger* - small wallet balance
+  - *whale* - huge wallet balance 
 
 ### Instrument the App
 - Install Product Analytics Stack
