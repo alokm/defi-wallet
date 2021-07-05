@@ -47,8 +47,8 @@ Multi-user seed phrase backup and recovery strategy
 
 *Current Solution: Write it down somewhere safe and don't lose it*
 - A user is expected to be extremely diligent and proactive in the setup and ongoing maintenance of a system to store their seed phrase offline in a safe, secure, weather-proof, theft-resistant, disaster-resistant, physically redundant location. 
-- *The Advice:* Write it down somewhere safe and don’t lose it is harder than it looks for users to follow. It is not safe to assume that most or even many users follow best practice in securing their seed phrase offline. Given that the seed phrase is more important than the wallet, this is a scary situation.
-- *Conclusion*  Most non-custodial wallets are borderline negligent in that they do virtually nothing to prevent their users from losing access to funds without recourse. At best they check that a user has recorded their seed phrase on wallet install, but none take responsibility for helping users on Day 2 to infinity of seed phrase backup. This is an opportunity to build trust.
+- *Traditional Advice:* Write it down somewhere safe and don’t lose it is harder than it looks for users to follow. It is not safe to assume that most or even many users follow best practice in securing their seed phrase offline. Given that the seed phrase is more important than the wallet, this is a scary situation.
+- *Key Takeaway*  Most non-custodial wallets are borderline negligent in that they do virtually nothing to prevent their users from losing access to funds without recourse. At best they check that a user has recorded their seed phrase on wallet install, but none take responsibility for helping users on Day 2 to infinity of seed phrase backup. This is an opportunity to build trust.
 	- Most non-custodial wallets only test that the user can reproduce the seed phrase at the time of wallet creation. 
 	- After that some wallets never allow a user to recover their seed phrase under any circumstances. 
 	- Other wallets will allow users to recover their seed phrase provided they have authenticated another way (usually a password)
