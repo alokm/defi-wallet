@@ -57,8 +57,10 @@ Liquality should offer a better solution. One that stores seed phrases securely 
 
 ### 3. What is deFi?
 Build a web gateway to deFi for normals that provides an encyclopedia-like experience on crypto offerings and acts as a funnel to channel users from no-coiners to deFi maximalists. Optionally license content and data from a 3rd party like Messari.io or alternative
+
 **Problem**
 Most of Liquality’s future users are not yet mature enough on their DeFi lifecycle of knowledge, to be able to be great long-term users. We need to build our users by helping them navigate the complex and fast evolving distributed finance landscape. This is how we will win the hearts and minds of new DeFi-curious users and how Liquality will grow its user base by 100x.
+
 **Solution**
 A content-rich website that takes a complete noob through the process of understanding *What is deFi?*. Beginning understanding the benefits and risks of each currency Liquality supports, how they work, and what traditional options they replace. This will help serve as an ongoing inbound content marketing funnel to attract and retain an educated user who will understand how to take full advantage of their Liquality wallet.
 
