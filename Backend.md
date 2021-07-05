@@ -8,10 +8,10 @@ This is a series of recommendations for backend improvements designed to provide
 
 # Backend Product Operations 
 *Table of Contents*
-- [User Persona Model]()
-- Instrument the App
-- Product Operations Dashboard - ProductOps 
-- Marketing Operations Dashboard - MarketOps 
+- [User Persona Model](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
+- [Instrument the App]()
+- [Product Operations Dashboard - ProductOps]() 
+- [Marketing Operations Dashboard - MarketOps]()
 			
 
 ## Backend Product Operations Improvements
