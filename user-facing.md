@@ -42,7 +42,7 @@ Multi-user seed phrase backup and recovery strategy
 *Problem: How do I backup my seed phrase and password?*
 - For users of a non-custodial wallet such as Liquality, the problem of securely and safely backing up one's seed phrase is a serious consideration. 
 - Many users would agree that most wallets have not done enough to protect them from loss of funds due to user errors that are easily recoverable when dealing with traditional centralized systems. 
-- Non-custodial wallets such as Liquality do not offer a universal mechanism for seed phrase recovery or password recovery in the case of catastrophic loss of a device - or even the users lost their password. 
+- Non-custodial wallets such as Liquality do not offer a universal mechanism for seed phrase recovery or password recovery in the case of catastrophic loss of a device or other valid recovery mode. 
 - The default experience for new users is therefore likely to result in the catastrophic loss of funds in the case of a device failure or if the user loses their password. This is unacceptable for a cryptowallet and yet it is the default experience for users of any hardware wallet or other non-custodial wallet today.
 
 *Current Solution: Write it down somewhere safe and don't lose it*
