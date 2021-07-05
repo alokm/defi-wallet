@@ -9,9 +9,9 @@ Liquality is building a wallet that offers users access to a new fully decentral
 - whales (OG Bitcoin or Ethereum hodlers)
 - no one else (yet)
 
-*Question:* How do you grow the Liquality user base by 10x to 100x?
+*Question:* How do you grow the Liquality user base by 100x?
 *Answer:* 
-* By understanding that the 100x users don’t even know they need your product today. They may not even understand what a cryptocurrency wallet does or what the difference is between chains and layer-2 solutions. 
+* By understanding that the next million users don’t even know they need your product today. They may not even understand what a cryptocurrency wallet does or what the difference is between chains and layer-2 solutions. 
 * This is a very early emerging market and the answer for growth cannot be to acquire more users as they discover the need for Liquality. 
 * Instead the answer must be to educate the broader cryptocurrency community on the benefits of decentralized finance over centralized finance, because growing their understanding of DeFi positions Liquality as the obvious gateway product.
 * See *What is DeFi* for an example strategy to drive 100x growth via Product Marketing and great technical writing to educate the 100x users on DeFi.
