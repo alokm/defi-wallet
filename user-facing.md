@@ -56,7 +56,7 @@ Multi-user seed phrase backup and recovery strategy
 	- A better solution would be one that could offer redundant secure off-site backups of a seed phrase that is done so that no one other than the user ever has access to the user’s seed phrase.
 **Better Conclusion** - seed of a feature
 Liquality should offer a better solution. One that stores seed phrases securely in a physically redundant setup that relies on ones close friends and/or the community to help you recover a lost seed phrase without you ever losing exclusive access to the seed phrase.
- * Solution can allow a user to recover a seed phrase if they validate identity with a friend or friends (similar to (Argent)[https://www.argent.xyz/] app)
+ * Solution can allow a user to recover a seed phrase if they validate identity with a friend or friends (similar to [Argent](https://www.argent.xyz/) app)
  * Solution could leverage the community to recover a seed phrase if user validates identity securely through the community (using zk-Snarks)
 * The point is not to propose this as a solution to the problem. Instead it is to propose this problem as a worthy one of going deep on together.
 
