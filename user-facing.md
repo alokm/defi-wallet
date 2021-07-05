@@ -2,7 +2,7 @@
 
 ## Liquality Roadmap Candidates - Summary
 
- 1.  *Support more coins* - continue with current strategy 
+ 1. *Support more coins* - continue with current strategy 
  2. *Your gateway to deFi* - product messaging strategy to reach new users 
  3. *Save your seed* - product feature to build trust and drive virality
  4. *What is deFi?* - product education strategy to support new user growth
@@ -19,8 +19,11 @@ A small pivot on product messaging strategy away from individual features and to
 *Enabling economic freedom and empowerment through access to open and interoperable decentralized monetary networks.* 
 
 *Current Product message*: Liquality offers a non-custodial multi-chain cryptocurrency wallet with built-in cross-chain atomic swaps.
+
 *Revised Product message* Liquality is a multi-chain wallet that offers users a gateway to the world of decentralized finance.
+
 *Product Story*: The Liquality wallet is your multi-chain gateway to the world of decentralized finance. 
+
 *With Liquality* 
 * users can access Bitcoin, Ethereum, Sidechains, Stablecoins, NFTs and a new universe of decentralized apps (dapps)
 * users can easily and securely swap between any two assets in a trusted and completely decentralized way using atomic swaps
