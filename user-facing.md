@@ -30,7 +30,7 @@ A small pivot on product messaging strategy away from individual features and to
 * users can access Bitcoin, Ethereum, Sidechains, Stablecoins, NFTs and a new universe of decentralized apps (dapps)
 * users can easily and securely swap between any two assets in a trusted and completely decentralized way using atomic swaps
 * users have the easiest gateway to the decentralized universe bridging main-chains and side chains, stablecoins and NFTs or other dapps.
-* **more benefit statements**
+* **more benefit statements** - see [User Persona](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#4-name-your-wallet)
  - new users can ..
  - experienced users can ..
  - casual users can ..
