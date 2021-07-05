@@ -7,25 +7,27 @@
 This page covers a series of recommendations for backend improvements designed to provide the right infrastructure to enable defi-wallet to build a product that allows users to be successfull.
 
 # Backend Product Operations 
-*Table of Contents*
-- [User Persona Model](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
-- [Instrument the App](https://github.com/alokm/defi-wallet/blob/main/Backend.md#instrument-the-app)
-- [Product Operations Dashboard - ProductOps](https://github.com/alokm/defi-wallet/blob/main/Backend.md#product-operations-dashboard---productops) 
-- [Marketing Operations Dashboard - MarketOps](https://github.com/alokm/defi-wallet/blob/main/Backend.md#marketing-operations-dashboard---marketops)
-			
+**Table of Contents**
+* [User Persona Model](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
+* [Instrument the App](https://github.com/alokm/defi-wallet/blob/main/Backend.md#instrument-the-app)
+* [Product Operations Dashboard - ProductOps](https://github.com/alokm/defi-wallet/blob/main/Backend.md#product-operations-dashboard---productops) 
+* [Marketing Operations Dashboard - MarketOps](https://github.com/alokm/defi-wallet/blob/main/Backend.md#marketing-operations-dashboard---marketops)			
 
 ## Backend Product Operations Improvements
 
 ### User Persona Model
-- Two personas by ability
-  - *Casual Users* - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
-  - *Power Users* - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (<50% of users are power)
-- Two personas by experience
-  - *Noobs* new users to defi-wallet who have yet to become stuck on the product
-  - *Veterans* experienced active users on defi-wallet who make up our most loyal users
-- Two personas by size of wallet
-  - *honey badger* - small wallet balance
-  - *whale* - huge wallet balance 
+
+The user persona model is defined in three dimensions based on the user's: **ability**, **experience**, and **size of wallet**
+
+* Two personas by **ability** - where **ability** is a measure of a user's skill or knowledge about the capabilities of the defi-wallet app
+  - **Casual Users** - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
+  - **Power Users** - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (top 10-20% of users are power users)
+* Two personas by experience
+  - **Noobs** new users to defi-wallet who have yet to become stuck on the product
+  - **Veterans** experienced active users on defi-wallet who make up our most loyal users
+* Two personas by size of wallet
+  - **honey badger** - small wallet balance
+  - **whale** - huge wallet balance 
 
 ### Instrument the App
 - Install Product Analytics Stack
