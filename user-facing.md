@@ -13,7 +13,7 @@ Below are several suggestions for product roadmap candidates designed to drive s
  1. *[Your gateway to deFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#1-your-gateway-to-defi)* - product messaging strategy to reach new users 
  2. *[Save your seed](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#2-save-your-seed)* - product feature to build trust and drive virality
  3. *[What is deFi?](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi)* - product education strategy to support new user growth
- 4. *Name your wallet* - product renaming powered by the community
+ 4. *[Name your wallet](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#4-name-your-wallet)* - product renaming powered by the community
  
 ## defi-wallet Roadmap Candidates - Details
 
