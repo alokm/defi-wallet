@@ -49,7 +49,7 @@ Multi-user seed phrase backup and recovery strategy
 	- All available wallets rely on the hope that the device is not damaged beyond usability say in the example of a catastrophic hardware loss. If the device is damaged beyond use then it is no longer possible to recover a user’s seed phrase so we better hope they wrote it down safely.
 	- A better solution would be one that could offer redundant secure off-site backups of a seed phrase that is done so that no one other than the user ever has access to the user’s seed phrase.
 
-**Better Conclusion** - seed of a feature
+- **Better Conclusion** - seed of a feature
 Liquality should offer a better solution. One that stores seed phrases securely in a physically redundant setup that relies on ones close friends and/or the community to help you recover a lost seed phrase without you ever losing exclusive access to the seed phrase.
  * Solution can allow a user to recover a seed phrase if they validate identity with a friend or friends (similar to [Argent](https://www.argent.xyz/) app)
  * Solution could leverage the community to recover a seed phrase if user validates identity securely through the community (using zk-Snarks)
