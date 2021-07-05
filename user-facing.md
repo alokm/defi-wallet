@@ -11,9 +11,9 @@
 Continue with the current strategy of adding new coins and protocols based on community input and market demand - no immediate changes but look for more fiat onramps as partners emerge.
 
 ## 2. Your gateway to deFi
-A small pivot on product messaging strategy away from individual features and towards a vision relevant to our next 100k-1million users
+A small pivot on product messaging strategy away from individual features and towards a vision relevant to our next 1 million users
 
-*Enabling economic freedom and economic empowerment through open and interoperable decentralized monetary networks.*
+*Enabling economic freedom and empowerment through access to open and interoperable decentralized monetary networks.* 
 
 *Current Product message*: Liquality offers a non-custodial multi-chain cryptocurrency wallet with built-in cross-chain atomic swaps.
 *Revised Product message* Liquality is a multi-chain wallet that offers users a gateway to the world of decentralized finance.
