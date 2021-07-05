@@ -1,0 +1,79 @@
+# Backend Product Operations 
+*Table of Contents*
+- User Persona Model
+- Instrument the App
+- Product Operations Dashboard - ProductOps 
+- Marketing Operations Dashboard - MarketOps 
+			
+
+## Backend Product Operations Improvements
+- User Persona Model
+	- Three personas by ability
+		- *Median Users* - the median of users for the device or platform
+		- *Casual Users* - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
+		- *Power Users* - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (<50% of users are power)
+	- Three personas by experience
+		- *Noobs* new users to Liquality who have yet to become stuck on the product
+		- *MID* median users for the device or platform by age of account
+		- *EXP* experienced active users on Liquality who make up our most loyal users
+- Instrument the App
+	- Install Product Analytics Stack
+		- Install Segment.com - User Data Collection platform
+			- On website
+			- On Chrome extension
+			- On iOS 
+			- On Andriod
+		- Install Amplitude.com - User activity and engagement analytics
+		- Install FullStory.com - User behavior insights and analytics
+	- Configure Product Analytics Stack
+		- Wire up dashboards to track *median users* by skill and *MID* users by account age
+		- Wire up dashboards to track two user segments: *casual users* and *power users* by cohort
+		- Wire up dashboards to track two user maturity levels: *noobs* vs *EXP* users corresponding to new users vs experienced users.
+		- Setup Amplitude.com to run standard user engagement reports by cohort and user segment
+			- Wire up actions corresponding to each product page and feature entry point
+			- Wire up features end-to-end across app and cross platform
+		- Setup FullStory.com to run per user behavior insights and analytics reports 
+- Product Operations Dashboard - ProductOps 
+	- Optimize for */activity, engagement and satisfaction/*
+		- /*activity:*/ measures active users and core activity metrics across features and actions by platform (mobile, web, chrome app, etc.)
+		- /*engagement*/  measures depth of engagement across features and actions. Designed to help us understand operational trends in cohorts and segments over time. 
+			*Acquisition* - signups per week
+				- Growth Startup Stack per Segment.com co-founder
+					- User Data Platform (User Data Collection) 
+						- Segment.com
+					- User Analytics (Insight): 
+						- Amplitude, 
+						- Google BigQuery and Mode Analytics, 
+						- Snowflake w/ any BI tool like Tableau or Power BI
+					- Customer Interactions (CRM)
+						- Intercom 
+					- Customer Experience Insightd
+						- FullStory
+					- Customer Messaging
+						- Customer.io
+					- Growth
+						- Google Ads
+						- Facebook Ads
+			- *Onboarding* - from signup to first transaction
+				- How long does it take for a new user to go from signup to first deposit? 
+				- How many steps?
+				- How many sessions?
+				- How many days?
+				- How many support tickets?
+				- How many users tried and tried but then gave up and failed silently (say after 30 days of inaction)?
+			- *Usage* - how does the user behave in-app
+				- what features or pages are most used by frequency, sessions, total session time, session time per week etc
+				- Core Feature Area usage - Depth of Usage
+					- Feature Area A - Wallet home
+					- Feature Area B - Atomic Swap
+					- Feature Area C - Multi-chain usage
+					- ..
+			- *Satisfaction* - how happy are users?
+				- One question in-app survey to a random subset of users on a weekly basis. Work with Marketing and Leadership to choose the question but model on CSAT or NPS - stick with it over time. Use a 7 point scale or higher resolution.
+				- [Optional] Second question. Open-ended. “How can we make it better?” 
+					- Apply some ML on this feedback to do clustering and feature request management from this treasure trove of data. There are lots of 3rd party tools that do this. I’m no expert but I believe Intercom does this well.
+- Marketing Operations Dashboard - MarketOps 
+	- Report by marketing channel to better understand our best channels for attracting our most active and loyal users over time.
+		- Where do our best users come from?
+		- What makes our best users unique?
+		- How do we attract more of our best users?
