@@ -1,5 +1,7 @@
 # User-facing Product Improvements
 
+Below are several suggestions for product roadmap candidates designed to drive significant growth or deepen user engagement for Liquality.
+
 ## Liquality Roadmap Candidates - Summary
 
  1. *Support more coins* - continue with current strategy 
