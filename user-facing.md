@@ -1,3 +1,9 @@
+**Table of Contents**
+* [Problem Statement](https://github.com/alokm/defi-wallet#problem-statement)
+* [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
+* [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
+* [ProductOperationsDashboard](https://github.com/alokm/defi-wallet/blob/main/ProductOpsDash.md#productopsdash)
+
 # User-facing Product Improvements
 
 Below are several suggestions for product roadmap candidates designed to drive significant growth or deepen user engagement for defi-wallet.
