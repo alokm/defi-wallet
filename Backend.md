@@ -4,9 +4,11 @@
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
 * [ProductOperationsDashboard](https://github.com/alokm/defi-wallet/blob/main/ProductOpsDash.md#productopsdash)
 
+This is a series of recommendations for backend improvements designed to provide the right infrastructure to enable defi-wallet to build a product that allows users to be successfull.
+
 # Backend Product Operations 
 *Table of Contents*
-- User Persona Model
+- [User Persona Model]()
 - Instrument the App
 - Product Operations Dashboard - ProductOps 
 - Marketing Operations Dashboard - MarketOps 
