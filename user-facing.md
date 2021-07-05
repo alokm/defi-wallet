@@ -20,8 +20,6 @@ A small pivot on product messaging strategy away from individual features and to
 
 **Revised Product message** Liquality is a multi-chain wallet that offers users a gateway to the world of decentralized finance.
 
-**Product Story**: The Liquality wallet is your multi-chain gateway to the world of decentralized finance. 
-
 **With Liquality** 
 * users can access Bitcoin, Ethereum, Sidechains, Stablecoins, NFTs and a new universe of decentralized apps (dapps)
 * users can easily and securely swap between any two assets in a trusted and completely decentralized way using atomic swaps
