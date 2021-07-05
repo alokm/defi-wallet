@@ -14,7 +14,7 @@ The biggest problem facing defi-wallet is, how can we build a product for a mark
 * The problem facing defi-wallet is learning how to grow their user base by 100x while constrained by the fact that many of their current users are not yet sophisticated enough to understand or appreciate the value of an advanced multi-chain non-custodial crypto wallet. There are only so many defi-advocates in the market today.
 * We begin by understanding that the next million users don’t even know they need your product today. They may not even understand what a non-custodial cryptocurrency wallet does or what the difference is between main chains and layer-2 solutions. This market is small but growing fast.
 * This is a very early emerging market and the answer to maximize growth of the market is to expand the market by helping educate unsophisticated users on the benefits of decentralized finance. This strategy takes effort but the payoff is worth it as the customers it generates will be educated, engaged and active while improving long-term retention.
-* To educate the broader cryptocurrency community on the benefits of decentralized finance over centralized finance, see **What is DeFi** for an example strategy to drive 100x growth via Product Marketing and Technical Writing to educate new users on DeFi.
+* To educate the broader cryptocurrency community on the benefits of decentralized finance over centralized finance, see **[What is DeFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi)** for an example strategy to drive 100x growth via Product Marketing and Technical Writing to educate new users on DeFi.
 
 ### 2. How to differentiate defi-wallet: Focus on Trust
 
