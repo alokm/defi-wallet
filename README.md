@@ -1,5 +1,4 @@
-# defi-wallet Product Proposal
-defi-wallet is building a wallet that offers users access to a new fully decentralized world. This idea of sovereign control over one’s money and all the benefits and responsibilities that go with it, is a powerful one but today it is mostly a vision for most, not a reality. 
+defi-wallet is building a wallet that offers users access to a new fully decentralized world. This idea of sovereign control over one’s money and all the benefits and responsibilities that go with it, is a powerful one but today it is mostly a vision for most, not a reality. The question is, how can we build a product for a market that largely doesn't exist today, but one we want to bring into focus so it can be ready for the users when they do come.
 
 ## Problem Statement
 
