@@ -20,7 +20,7 @@ Below are several suggestions for product roadmap candidates designed to drive s
 ### 1. Your gateway to deFi
 A small pivot on product messaging strategy away from individual features and towards a vision relevant to our next 1 million users
 
-**Enabling economic freedom and empowerment through access to open and interoperable decentralized monetary networks.**
+**Vision: Enabling economic freedom and empowerment through access to open and interoperable decentralized monetary networks.**
 
 **Current Product message**: defi-wallet offers a non-custodial multi-chain cryptocurrency wallet with built-in cross-chain atomic swaps.
 
