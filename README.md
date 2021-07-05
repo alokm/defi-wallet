@@ -3,7 +3,7 @@ defi-wallet is building a wallet that offers users access to a new fully decentr
 
 ## Problem Statement
 
-### 1. How to grow efficiently
+### 1. How to grow scalably and effectively in a new emerging market: Teach users DeFi 
 
 * The problem facing defi-wallet is learning how to grow their user base by 100x while constrained by the fact that many of their current users are not yet sophisticated enough to understand or appreciate the value of an advanced multi-chain non-custodial crypto wallet. There are only so many defi-advocates in the market today.
 * We begin by understanding that the next million users don’t even know they need your product today. They may not even understand what a non-custodial cryptocurrency wallet does or what the difference is between main chains and layer-2 solutions. This market is small but growing fast.
