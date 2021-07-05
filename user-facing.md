@@ -2,7 +2,7 @@
 
 ## Liquality Roadmap Candidates - Summary
 
- 1.  *Support more coins* - continue with current strategy 
+ 1.  *[[Support more coins]]* - continue with current strategy 
  2. *Your gateway to deFi* - product messaging strategy to reach new users 
  3. *Save your seed* - product feature to build trust and drive virality
  4. *What is deFi?* - product education strategy to support new user growth
@@ -10,7 +10,7 @@
  
 ## Liquality Roadmap Candidates - Details
 
-###  1. Support more coins
+###  1. [[Support more coins]]
 Continue with the current strategy of adding new coins and protocols based on community input and market demand - no immediate changes but look for more fiat onramps as partners emerge.
 
 ### 2. Your gateway to deFi
