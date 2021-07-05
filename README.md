@@ -6,6 +6,7 @@ defi-wallet is building a wallet that offers users access to a new fully decentr
 This is the problem facing defi-wallet
 
 **Question:** Who uses non-custodial cross-chain cryptocurrency wallets today?
+
 **Answer:**
 - cypherpunks - Satoshi and friends
 - crypto-natives - Satoshi’s disciples
