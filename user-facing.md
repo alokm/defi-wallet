@@ -48,6 +48,7 @@ Multi-user seed phrase backup and recovery strategy
 	- Other wallets will allow users to recover their seed phrase provided they have authenticated another way (usually a password)
 	- All available wallets rely on the hope that the device is not damaged beyond usability say in the example of a catastrophic hardware loss. If the device is damaged beyond use then it is no longer possible to recover a user’s seed phrase so we better hope they wrote it down safely.
 	- A better solution would be one that could offer redundant secure off-site backups of a seed phrase that is done so that no one other than the user ever has access to the user’s seed phrase.
+
 **Better Conclusion** - seed of a feature
 Liquality should offer a better solution. One that stores seed phrases securely in a physically redundant setup that relies on ones close friends and/or the community to help you recover a lost seed phrase without you ever losing exclusive access to the seed phrase.
  * Solution can allow a user to recover a seed phrase if they validate identity with a friend or friends (similar to [Argent](https://www.argent.xyz/) app)
@@ -59,7 +60,7 @@ Liquality should offer a better solution. One that stores seed phrases securely 
 Build a web gateway to deFi for normals that provides an encyclopedia-like experience on crypto offerings and acts as a funnel to channel users from no-coiners to deFi maximalists. Optionally license content and data from a 3rd party like Messari.io or alternative
 
 **Problem**
-Most of Liquality’s future users are not yet mature enough on their DeFi lifecycle of knowledge, to be able to be great long-term users. We need to build our users by helping them navigate the complex and fast evolving distributed finance landscape. This is how we will win the hearts and minds of new DeFi-curious users and how Liquality will grow its user base by 100x.
+Most of Liquality’s future users are not yet mature enough on their *DeFi lifecycle of knowledge* to be able to be high-quality long-term users. We therefore need to help grow our users by helping them navigate the complex and fast evolving distributed finance landscape. Helping users go from noobs to experts on the DeFi universe so they understand which products solve what use cases and users develop the skill of evaluating a new crypto technology. This is how we will win the hearts and minds of new DeFi-curious users and how Liquality will grow its user base by 100x.
 
 **Solution**
 A content-rich website that takes a complete noob through the process of understanding *What is deFi?*. Beginning understanding the benefits and risks of each currency Liquality supports, how they work, and what traditional options they replace. This will help serve as an ongoing inbound content marketing funnel to attract and retain an educated user who will understand how to take full advantage of their Liquality wallet.
