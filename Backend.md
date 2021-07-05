@@ -83,8 +83,9 @@ This is a series of recommendations for backend improvements designed to provide
 	- One question in-app survey to a random subset of users on a weekly basis. Work with Marketing and Leadership to choose the question but model on CSAT or NPS - stick with it over time. Use a 7 point scale or higher resolution.
 	- [Optional] Second question. Open-ended. “How can we make it better?” 
 		- Apply some ML on this feedback to do clustering and feature request management from this treasure trove of data. There are lots of 3rd party tools that do this. I’m no expert but I believe Intercom does this well.
-- Marketing Operations Dashboard - MarketOps 
-	- Report by marketing channel to better understand our best channels for attracting our most active and loyal users over time.
-		- Where do our best users come from?
-		- What makes our best users unique?
-		- How do we attract more of our best users?
+	
+### Marketing Operations Dashboard - MarketOps 
+- Report by marketing channel to better understand our best channels for attracting our most active and loyal users over time.
+	- Where do our best users come from?
+	- What makes our best users unique?
+	- How do we attract more of our best users?
