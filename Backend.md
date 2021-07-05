@@ -45,9 +45,20 @@ This page covers a series of recommendations for backend improvements designed t
 	- Setup FullStory.com to run per user behavior insights and analytics reports 
 
 ### Product Operations Dashboard - ProductOps 
-- Optimize for */activity, engagement and satisfaction/*
-- /*activity:*/ measures active users and core activity metrics across features and actions by platform (mobile, web, chrome app, etc.)
-- /*engagement*/  measures depth of engagement across features and actions. Designed to help us understand operational trends in cohorts and segments over time. 
+* Optimize for **activity, engagement and satisfaction**
+* **activity:** measures active users and core activity metrics across features and actions by platform (mobile, web, chrome app, etc.)
+  * daily, weekly, monthly active users 
+* **engagement**  measures depth of engagement across features and actions. Designed to help us understand operational trends in cohorts and segments over time.
+  * usage in sessions, sessions/week and session length
+  * engagement in feature actions or goals completed 	
+* **satisfaction** measures how happy are users?
+  * One questions in-app survey to a random subset of users on a weekly basis. Modified CSAT or NPS score - stick to one question. Use a 7-point scale or higher resolution.
+  * [optional] Second question. Open-ended. "How can we make it better?" 	
+  * Apply some ML on this feedback to do clustering and feature request management from this treasure trove of data. There are lots of 3rd party tools that do this. I’m no expert but I believe Intercom does this well.
+* **New User Funnel:** Build Acquisition > Activation > Onboarding funnel for new users in their first 60 days
+* **Power User Funnel:** Build Noob > Power User funnel to understand how a new user becomes a Power user
+
+
 *Acquisition* - signups per week
 	- Growth Startup Stack per Segment.com co-founder
 		- User Data Platform (User Data Collection) 
