@@ -36,6 +36,7 @@ A small pivot on product messaging strategy away from individual features and to
  - power users can ..
 
 ### 2. Save your seed
+
 Multi-user seed phrase backup and recovery strategy
 
 **Problem: How do I backup my seed phrase and password?**
@@ -46,6 +47,7 @@ Multi-user seed phrase backup and recovery strategy
 - The default experience for new users is therefore likely to result in the catastrophic loss of funds in the case of a device failure or if the user loses their password. This is unacceptable for a cryptowallet and yet it is the default experience for users of any hardware wallet or other non-custodial wallet today.
 
 **Current Solution: Write it down somewhere safe and don't lose it**
+
 - A user is expected to be extremely diligent and proactive in the setup and ongoing maintenance of a system to store their seed phrase offline in a safe, secure, weather-proof, theft-resistant, disaster-resistant, physically redundant location. 
 - **Traditional Advice:** Write it down somewhere safe and don’t lose it is harder than it looks for users to follow. It is not safe to assume that most or even many users follow best practice in securing their seed phrase offline. Given that the seed phrase is more important than the wallet, this is a scary situation.
 - **Key Takeaway**  Most non-custodial wallets are borderline negligent in that they do virtually nothing to prevent their users from losing access to funds without recourse. At best they check that a user has recorded their seed phrase on wallet install, but none take responsibility for helping users on Day 2 to infinity of seed phrase backup. This is an opportunity to build trust.
@@ -55,13 +57,15 @@ Multi-user seed phrase backup and recovery strategy
 	- All available wallets rely on the hope that the device is not damaged beyond usability say in the example of a catastrophic hardware loss. If the device is damaged beyond use then it is no longer possible to recover a user’s seed phrase so we better hope they wrote it down safely.
 	- A better solution would be one that could offer redundant secure off-site backups of a seed phrase that is done so that no one other than the user ever has access to the user’s seed phrase.
 
-- **Better Conclusion** - seed of a feature
+**Better Conclusion** - seed of a new feature request. subject to feedback.
+
 defi-wallet should offer a better solution. One that stores seed phrases securely in a physically redundant setup that relies on ones close friends and/or the community to help you recover a lost seed phrase without you ever losing exclusive access to the seed phrase.
  * Solution can allow a user to recover a seed phrase if they validate identity with a friend or friends (similar to [Argent](https://www.argent.xyz/) app)
  * Solution could leverage the community to recover a seed phrase if user validates identity securely through the community (using zk-Snarks)
 * The point is not to propose this as a solution to the problem. Instead it is to propose this problem as a worthy one of going deep on together.
 
-- **Viral and Network Effects** - driving viral adoption while dramatically increasing long-term retention
+**Viral and Network Effects** - driving viral adoption while dramatically increasing long-term retention
+
 * By leveraging a user's real-world closest crypto-friendly friends as their *Seed Recovery* backup system, defi-wallet makes social networks a part of your seed phrase backup strategy.
 * The solution also drives virality and network effects to drive adoption and increase retention by encouraging users to build a personal trusted network of one or more close friends to serve as your backup as social network.
 
