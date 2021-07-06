@@ -78,5 +78,6 @@ A content-rich website that takes a complete noob through the process of underst
 ### 4. Name your wallet
 Community engagement in renaming defi-wallet
 I think the defi-wallet name could be replaced with something stronger. I believe the community could help us rename the wallet. I propose we build a feature that allows the community to collaborate on the renaming. It would include a leaderboard for voting and comments as well as the ability for users to choose a name from the leaderboard that would re-brand the app and allow users to vote for their preference while signaling for their preference.
+
 **Why it is a good idea**
 This strategy drives community engagement and ownership around the product through naming rights. We want the community to feel the ownership and this is a great way to do it. We could run the campaign for up to a year or so to get lots of marketing mileage from the democratic process and then rename it once it is clear that we have consensus around a new name.
