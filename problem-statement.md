@@ -1,6 +1,6 @@
 # Problem Statement
 
-* The idea of a multi-chain non-custodial wallet for sovereign individuals is a powerful and compelling product vision but the reality is that defi-wallet needs to position itself effectively within the broader crypto community to attract new users from centralized services towards DeFi.
+* The idea of a multi-chain non-custodial wallet for sovereign individuals is a powerful vision but the reality is that defi-wallet needs to appeal to a broader audience to get the next million users.
 
 * Decentralization is a spectrum and I estimate that many, if not most, crypto enthusiasts today do not hold the majority of their crypto assets in wallets where they alone hold the keys. 
 
@@ -21,14 +21,14 @@
 * This is a very early emerging market and the answer to maximize growth of the market is to expand the market by helping educate unsophisticated users on the benefits of decentralized finance. This strategy takes effort but the payoff is worth it as the customers it generates will be educated, engaged and active while improving long-term retention.
 
 * **Answer:** Teach users DeFi 
-* To educate the broader cryptocurrency community on the benefits of decentralized finance over centralized finance, see **[What is DeFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi)** for an example strategy to drive 100x growth via Product Marketing and Technical Writing to educate new users on DeFi.
+  * To educate the broader cryptocurrency community on the benefits of decentralized finance over centralized finance, see **[What is DeFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi)** for an example strategy to drive 100x growth via Product Marketing and Technical Writing to educate new users on DeFi.
 
 ## 2. How to differentiate defi-wallet
 
 * The best way to differentiate defi-wallet from competitors is to focus on delivering impeccable security, trust and safety of the user's crypto assets. Nothing matters as much as keeping our customers assets safe from loss. 
 
 * **Answer:** Focus on Trust
-* See **[Save your seed](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#2-save-your-seed)** for an example strategy to drive 1000x improvement in user sentiment of defi-wallet as the most trusted name in non-custodial wallets.
+  * See **[Save your seed](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#2-save-your-seed)** for an example strategy to drive 1000x improvement in user sentiment of defi-wallet as the most trusted name in non-custodial wallets.
 
 # Next Steps
 
