@@ -1,7 +1,7 @@
 **Table of Contents**
 
-* [README](https://github.com/alokm/defi-wallet/blob/main/README.md) - You are here
-* [Problem Statement](https://github.com/alokm/defi-wallet/blob/main/problem-statement.md) - Start here!
+* [README](https://github.com/alokm/defi-wallet/blob/main/README.md)
+* [Problem Statement](https://github.com/alokm/defi-wallet/blob/main/problem-statement.md) - You are here
 * [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
 
