@@ -3,7 +3,7 @@
 * [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
 
-## Backend Product Operations Improvements
+# Backend Product Operations Improvements
 
 This page covers a series of recommendations for backend improvements designed to provide the right infrastructure to enable defi-wallet to build a product that allows users to be successfull.
 
@@ -12,7 +12,7 @@ This page covers a series of recommendations for backend improvements designed t
 * [Instrument the App](https://github.com/alokm/defi-wallet/blob/main/Backend.md#instrument-the-app)
 * [Product Operations Dashboard](https://github.com/alokm/defi-wallet/blob/main/Backend.md#product-operations-dashboard---productops) 
 
-### User Persona Model
+## User Persona Model
 
 The user persona model is defined in three dimensions with two states each based on the user's: **ability**, **experience**, and **size of wallet**
 
@@ -26,7 +26,7 @@ The user persona model is defined in three dimensions with two states each based
   - **Honey Badgers** - small wallet balance 
   - **Whales** - huge wallet balance 
 
-### Instrument the App
+## Instrument the App
 - Install Product Analytics Stack
 	- Install [Segment.com](https://segment.com/) - User Data Collection platform
 		- On website
@@ -44,7 +44,7 @@ The user persona model is defined in three dimensions with two states each based
 	- Build an Engagement funnel from activation to multiple steps of a user's engagement journey as they discover the apps full capabilitiies
 	
 
-### Product Operations Dashboard - ProductOps
+## Product Operations Dashboard - ProductOps
 
 Build a ProductOps dashboard that measures **Activity**, **Engagement** and **Satisfaction** by cohort on an ongoing basis. Where cohort is a basket of users who activated in the same time period (weekly or monthly). By measuring cohorts against each other over time, we can identify the impact of new feature enhancements and other strategies for improving product engagement by release date. 
 
