@@ -17,7 +17,7 @@ This page covers a series of recommendations for backend improvements designed t
 
 ### User Persona Model
 
-The user persona model is defined in three dimensions based on the user's: **ability**, **experience**, and **size of wallet**
+The user persona model is defined in three dimensions with two states each based on the user's: **ability**, **experience**, and **size of wallet**
 
 * Two personas by **ability** - where **ability** is a measure of a user's skill or knowledge about the capabilities of the defi-wallet app
   - **Casual Users** - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
