@@ -39,15 +39,20 @@ The user persona model is defined in three dimensions with two states each based
 	- Install [Amplitude.com](https://amplitude.com/) - User activity and engagement analytics
 	- Install [FullStory.com](https://www.fullstory.com/) - User behavior insights and analytics
 - Configure Product Analytics Stack
-	- Wire up dashboards to track *median users* by skill and *MID* users by account age
-	- Wire up dashboards to track two user segments: *casual users* and *power users* by cohort
-	- Wire up dashboards to track two user maturity levels: *noobs* vs *EXP* users corresponding to new users vs experienced users.
+	- Wire up dashboards to track user personas by **ability**, **experience**, and **size of wallet**
 	- Setup Amplitude.com to run standard user engagement reports by cohort and user segment
-		- Wire up actions corresponding to each product page and feature entry point
-		- Wire up features end-to-end across app and cross platform
-	- Setup FullStory.com to run per user behavior insights and analytics reports 
+	   - Wire up actions corresponding to each product page and feature entry point
+	   - Wire up features end-to-end across app and cross platform
+	- Setup FullStory.com to run per user behavior insights and analytics to understand user journeys, particularly across device
+	- Build an Engagement funnel from activation to multiple steps of a user's engagement journey as they discover the apps full capabilitiies
+	
 
-### Product Operations Dashboard - ProductOps 
+### Product Operations Dashboard - ProductOps
+
+Build a ProductOps dashboard that measures **Activity**, **Engagement** and **Satisfaction** by cohort on an ongoing basis. Where cohort is a basket of users who activated in the same time period (weekly or monthly). By measuring cohorts against each other over time, we can identify the impact of new feature enhancements and other strategies for improving product engagement by release date. 
+
+**ProductOps Dashboard** - Starter Pack
+
 * Optimize for **activity, engagement and satisfaction**
   * **activity:** measures active users and core activity metrics across features and actions by platform (mobile, web, chrome app, etc.)
     * daily, weekly, monthly active users 
@@ -62,44 +67,20 @@ The user persona model is defined in three dimensions with two states each based
   * **Power User Funnel:** Build Noob > Power User funnel to understand how a new user becomes a Power user
 
 
-*Acquisition* - signups per week
-	- Growth Startup Stack per Segment.com co-founder
-		- User Data Platform (User Data Collection) 
-			- Segment.com
-		- User Analytics (Insight): 
-			- Amplitude, 
-			- Google BigQuery and Mode Analytics, 
-			- Snowflake w/ any BI tool like Tableau or Power BI
-		- Customer Interactions (CRM)
-			- Intercom 
-		- Customer Experience Insightd
-			- FullStory
-		- Customer Messaging
-			- Customer.io
-		- Growth
-			- Google Ads
-			- Facebook Ads
-- *Onboarding* - from signup to first transaction
+* Questions to ask about **Onboarding** and **Usage** metrics
+ 
+  * *Onboarding* - from signup to first transaction
 	- How long does it take for a new user to go from signup to first deposit? 
 	- How many steps?
 	- How many sessions?
 	- How many days?
 	- How many support tickets?
 	- How many users tried and tried but then gave up and failed silently (say after 30 days of inaction)?
-- *Usage* - how does the user behave in-app
+
+  * *Usage* - how does the user behave in-app
 	- what features or pages are most used by frequency, sessions, total session time, session time per week etc
 	- Core Feature Area usage - Depth of Usage
 		- Feature Area A - Wallet home
 		- Feature Area B - Atomic Swap
 		- Feature Area C - Multi-chain usage
 		- ..
-- *Satisfaction* - how happy are users?
-	- One question in-app survey to a random subset of users on a weekly basis. Work with Marketing and Leadership to choose the question but model on CSAT or NPS - stick with it over time. Use a 7 point scale or higher resolution.
-	- [Optional] Second question. Open-ended. “How can we make it better?” 
-		- Apply some ML on this feedback to do clustering and feature request management from this treasure trove of data. There are lots of 3rd party tools that do this. I’m no expert but I believe Intercom does this well.
-	
-### Marketing Operations Dashboard - MarketOps 
-- Report by marketing channel to better understand our best channels for attracting our most active and loyal users over time.
-	- Where do our best users come from?
-	- What makes our best users unique?
-	- How do we attract more of our best users?
