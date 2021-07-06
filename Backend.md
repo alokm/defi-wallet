@@ -21,11 +21,11 @@ The user persona model is defined in three dimensions with two states each based
   - **Casual Users** - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
   - **Power Users** - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (top 10-20% of users are power users)
 * Two personas by **experience** - where **experience** is a measure of the users time with defi-wallet in calendar time and/or session time
-  - **Noobs** new users to defi-wallet who have yet to become stuck on the product
-  - **Veterans** experienced active users on defi-wallet who make up our most loyal users
+  - **Noobs** - new users to defi-wallet who have yet to become stuck on the product
+  - **Veterans** - experienced active users on defi-wallet who make up our most loyal users
 * Two personas by **size of wallet** - where **size of wallet** is a measure of average assets under management in terms of portfolio value
-  - **honey badger** - small wallet balance 
-  - **whale** - huge wallet balance 
+  - **Honey Badgers** - small wallet balance 
+  - **Whales** - huge wallet balance 
 
 ### Instrument the App
 - Install Product Analytics Stack
