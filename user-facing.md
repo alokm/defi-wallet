@@ -12,7 +12,6 @@ Below are several suggestions for product roadmap candidates designed to drive s
  1. *[Your gateway to deFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#1-your-gateway-to-defi)* - product messaging strategy to reach new users 
  2. *[Save your seed](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#2-save-your-seed)* - product feature to build trust and drive virality
  3. *[What is deFi?](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi)* - product education strategy to support new user growth
- 4. *[Name your wallet](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#4-name-your-wallet)* - product renaming powered by the community
  
 ## defi-wallet Roadmap Candidates - Details
 
@@ -78,14 +77,6 @@ Most of defi-wallet’s future users are not yet mature enough on their *DeFi li
 
 **Solution**
 A content-rich website that takes a complete noob through the process of understanding *What is deFi?*. Beginning understanding the benefits and risks of each currency defi-wallet supports, how they work, and what traditional options they replace. This will help serve as an ongoing inbound content marketing funnel to attract and retain an educated user who will understand how to take full advantage of their defi-wallet.
-
-### 4. Name your wallet
-Community engagement in renaming defi-wallet
-
-The defi-wallet product name could be stronger and easier to pronounce. Engaging the community to collaborate on renaming the wallet could help drive significant engagement and a deeper sense of ownership among the community. I propose we build a feature that allows the community to collaborate on the renaming. It would include a leaderboard for voting and comments as well an in-app feature that offers the ability for users to choose a name from the leaderboard that would re-brand the app, allowing users to vote for their preference simply by choosing a name in-app.
-
-**Why it is a good idea**
-This strategy drives community engagement and ownership around the product through naming rights. We want the community to feel the ownership and this is a great way to do it. We could run the campaign for up to a year or so to get lots of marketing mileage from the democratic process and then rename it once it is clear that we have consensus around a new name.
 
 ## Next Steps
 
