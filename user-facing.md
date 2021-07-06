@@ -14,7 +14,10 @@ Below are several suggestions for product roadmap candidates designed to drive s
  3. *[What is deFi?](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi)* - product education strategy to support new user growth
  
 ### 1. Your gateway to deFi
-A small pivot on product messaging strategy away from individual features and towards a vision relevant to our next 1 million users
+
+**Problem:** The current product positioning is focused on features, instead it should focus on bigger goals and user oucomes - like sovereignty.
+
+**Solution:** A small pivot on product messaging strategy away from individual features and towards a vision relevant to our next 1 million users
 
 **Vision: Enabling economic freedom and empowerment through access to open and interoperable decentralized monetary networks.**
 
@@ -26,7 +29,7 @@ A small pivot on product messaging strategy away from individual features and to
 * users can access Bitcoin, Ethereum, Sidechains, Stablecoins, NFTs and a new universe of decentralized apps (dapps)
 * users can easily and securely swap between any two assets in a trusted and completely decentralized way using atomic swaps
 * users have the easiest gateway to the decentralized universe bridging main-chains and side chains, stablecoins and NFTs or other dapps.
-* **more benefit statements** - see [User Persona](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
+* **more benefit statements by persona** - see [User Persona](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
 
 ### 2. Save your seed
 
@@ -50,7 +53,7 @@ Multi-user seed phrase backup and recovery strategy
 	- All available wallets rely on the hope that the device is not damaged beyond usability say in the example of a catastrophic hardware loss. If the device is damaged beyond use then it is no longer possible to recover a user’s seed phrase so we better hope they wrote it down safely.
 	- A better solution would be one that could offer redundant secure off-site backups of a seed phrase that is done so that no one other than the user ever has access to the user’s seed phrase.
 
-**Better Conclusion** - seed of a new feature request. subject to feedback.
+**Better Solution** - seed of a new feature request. subject to feedback.
 
 defi-wallet should offer a better solution. One that stores seed phrases securely in a physically redundant setup that relies on ones close friends and/or the community to help you recover a lost seed phrase without you ever losing exclusive access to the seed phrase.
  * Solution can allow a user to recover a seed phrase if they validate identity with a friend or friends (similar to [Argent](https://www.argent.xyz/) app)
