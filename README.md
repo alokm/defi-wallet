@@ -20,7 +20,7 @@ The biggest problem facing defi-wallet is, how can we build a product for a mark
 * The best way to differentiate defi-wallet from competitors is to focus on delivering impeccable security, trust and safety of the user's crypto assets. Nothing matters as much as keeping our customers assets safe from loss. 
 * See **[Save your seed](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#2-save-your-seed)** for an example strategy to drive 1000x improvement in user sentiment of defi-wallet as the most trusted name in non-custodial wallets.
 
-## Next Steps
+# Next Steps
 
 Explore the following content for recommendations on product improvements
 
