@@ -82,3 +82,7 @@ Build a ProductOps dashboard that measures **Activity**, **Engagement** and **Sa
 		- Feature Area B - Atomic Swap
 		- Feature Area C - Multi-chain usage
 		- ..
+
+## Next Steps
+
+* Explore [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
