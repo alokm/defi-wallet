@@ -2,7 +2,6 @@
 * [Problem Statement](https://github.com/alokm/defi-wallet#problem-statement)
 * [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
-* [ProductOperationsDashboard](https://github.com/alokm/defi-wallet/blob/main/ProductOpsDash.md#productopsdash)
 
 This page covers a series of recommendations for backend improvements designed to provide the right infrastructure to enable defi-wallet to build a product that allows users to be successfull.
 
