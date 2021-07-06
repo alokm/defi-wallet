@@ -81,3 +81,7 @@ I think the defi-wallet name could be replaced with something stronger. I believ
 
 **Why it is a good idea**
 This strategy drives community engagement and ownership around the product through naming rights. We want the community to feel the ownership and this is a great way to do it. We could run the campaign for up to a year or so to get lots of marketing mileage from the democratic process and then rename it once it is clear that we have consensus around a new name.
+
+## Next Steps
+
+* Explore [Backend Product Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
