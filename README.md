@@ -2,7 +2,9 @@
 
 * Decentralization is a spectrum and I estimate that many, if not most, crypto enthusiasts today do not hold the majority of their crypto assets in wallets where they alone hold the keys. 
 
-* Most users start their journey through a centralized fiat gateway via an exchange. Before users can adopt a defi-wallet they must first understand the meaning of the statement: "Not your keys, not your coins." 
+* Most users start their journey through a centralized fiat gateway via an exchange. 
+
+* Before users can adopt a defi-wallet they must first understand the meaning of the statement: "Not your keys, not your coins." 
 
 * This idea of sovereign control over one’s money and all the benefits and responsibilities that go with it - is a powerful one, but today it is still mostly a vision for most users, not a reality. 
 
