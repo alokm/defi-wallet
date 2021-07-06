@@ -58,7 +58,7 @@ Build a ProductOps dashboard that measures **Activity**, **Engagement** and **Sa
     * usage in sessions, sessions/week and session length
     * engagement in feature actions or goals completed 	
   * **satisfaction** measures how happy are users?
-    * One questions in-app survey to a random subset of users on a weekly basis. Modified CSAT or NPS score - stick to one question. Use a 7-point scale or higher resolution.
+    * One question in-app survey to a random subset of users on a weekly basis. Modified CSAT or NPS score - stick to one question. Use a 7-point scale or higher resolution.
     * [optional] Second question. Open-ended. "How can we make it better?" 	
     * Apply some ML on this feedback to do clustering and feature request management from this treasure trove of data. There are lots of 3rd party tools that do this. I’m no expert but I believe Intercom does this well.
   * **New User Funnel:** Build Acquisition > Activation > Onboarding funnel for new users in their first 60 days
