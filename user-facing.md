@@ -25,10 +25,6 @@ A small pivot on product messaging strategy away from individual features and to
 * users can easily and securely swap between any two assets in a trusted and completely decentralized way using atomic swaps
 * users have the easiest gateway to the decentralized universe bridging main-chains and side chains, stablecoins and NFTs or other dapps.
 * **more benefit statements** - see [User Persona](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
- - new users can ..
- - experienced users can ..
- - casual users can ..
- - power users can ..
 
 ### 2. Save your seed
 
