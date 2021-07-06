@@ -3,16 +3,14 @@
 * [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
 
-This page covers a series of recommendations for backend improvements designed to provide the right infrastructure to enable defi-wallet to build a product that allows users to be successfull.
+## Backend Product Operations Improvements
 
-# Backend Improvements
+This page covers a series of recommendations for backend improvements designed to provide the right infrastructure to enable defi-wallet to build a product that allows users to be successfull.
 
 **Table of Contents**
 * [User Persona Model](https://github.com/alokm/defi-wallet/blob/main/Backend.md#user-persona-model)
 * [Instrument the App](https://github.com/alokm/defi-wallet/blob/main/Backend.md#instrument-the-app)
 * [Product Operations Dashboard](https://github.com/alokm/defi-wallet/blob/main/Backend.md#product-operations-dashboard---productops) 
-
-## Backend Product Operations Improvements
 
 ### User Persona Model
 
