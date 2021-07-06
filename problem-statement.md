@@ -1,3 +1,10 @@
+**Table of Contents**
+
+* [README](https://github.com/alokm/defi-wallet/blob/main/README.md) - You are here
+* [Problem Statement](https://github.com/alokm/defi-wallet/blob/main/problem-statement.md) - Start here!
+* [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
+* [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
+
 # Problem Statement
 
 * The idea of a multi-chain non-custodial wallet for sovereign individuals is a powerful vision but the reality is that defi-wallet needs to appeal to a broader audience to get the next million users.
