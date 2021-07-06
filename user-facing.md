@@ -67,7 +67,7 @@ defi-wallet should offer a better solution. One that stores seed phrases securel
 **Viral and Network Effects** - driving viral adoption while dramatically increasing long-term retention
 
 * By leveraging a user's real-world closest crypto-friendly friends as their *Seed Recovery* backup system, defi-wallet makes social networks a part of your seed phrase backup strategy, driving virality and long-term retention.
-* The solution also drives virality and network effects to drive adoption and increase retention by encouraging users to build a personal trusted network of one or more close friends to serve as your backup as social network.
+* Encouraging users to build a personal trusted network of one or more close friends to serve as their personal backup is likely to drive a massive uptick in long-term user retention. By getting the user to connect with their closest crypto friends they create a trust pair, triangle or circle that will encourage them to remain with defi-wallet to help protect their friends. Since their friends funds are secured on defi-wallet, the user recognizes that their funds could also benefit from decentralized peer-to-peer seed backup strategies, creating a virtuous cycle encouraging users to safely store their crypto assets powered by a decentralized seed phrase recovery system.
 
 
 ### 3. What is deFi?
