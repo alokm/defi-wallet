@@ -22,22 +22,22 @@ The user persona model is defined in three dimensions based on the user's: **abi
 * Two personas by **ability** - where **ability** is a measure of a user's skill or knowledge about the capabilities of the defi-wallet app
   - **Casual Users** - lightweight users who store and stack crypto with the occasional swap or staking activity (>50% of users are casual)
   - **Power Users** - hardcore users with complex multi-chain needs and active trader user cases involving frequent swap or staking activity (top 10-20% of users are power users)
-* Two personas by experience
+* Two personas by **experience** - where **experience** is a measure of the users time with defi-wallet in calendar time and/or session time
   - **Noobs** new users to defi-wallet who have yet to become stuck on the product
   - **Veterans** experienced active users on defi-wallet who make up our most loyal users
-* Two personas by size of wallet
-  - **honey badger** - small wallet balance
+* Two personas by **size of wallet** - where **size of wallet** is a measure of average assets under management in terms of portfolio value
+  - **honey badger** - small wallet balance 
   - **whale** - huge wallet balance 
 
 ### Instrument the App
 - Install Product Analytics Stack
-	- Install Segment.com - User Data Collection platform
+	- Install [Segment.com](https://segment.com/) - User Data Collection platform
 		- On website
 		- On Chrome extension
 		- On iOS 
 		- On Andriod
-	- Install Amplitude.com - User activity and engagement analytics
-	- Install FullStory.com - User behavior insights and analytics
+	- Install [Amplitude.com](https://amplitude.com/) - User activity and engagement analytics
+	- Install [FullStory.com](https://www.fullstory.com/) - User behavior insights and analytics
 - Configure Product Analytics Stack
 	- Wire up dashboards to track *median users* by skill and *MID* users by account age
 	- Wire up dashboards to track two user segments: *casual users* and *power users* by cohort
