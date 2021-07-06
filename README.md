@@ -2,7 +2,6 @@
 * [Problem Statement](https://github.com/alokm/defi-wallet#problem-statement)
 * [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
-* [ProductOperationsDashboard](https://github.com/alokm/defi-wallet/blob/main/ProductOpsDash.md#productopsdash)
 
 defi-wallet is building a wallet that offers users access to a new fully decentralized world. This idea of sovereign control over one’s money and all the benefits and responsibilities that go with it - is a powerful one, but today it is still mostly a vision for most users, not a reality. 
 The biggest problem facing defi-wallet is, how can we build a product for a market that largely doesn't exist today, but one we want to bring into focus so it can be ready for the users when they do come?
@@ -20,3 +19,10 @@ The biggest problem facing defi-wallet is, how can we build a product for a mark
 
 * The best way to differentiate defi-wallet from competitors is to focus on delivering impeccable security, trust and safety of the user's crypto assets. Nothing matters as much as keeping our customers assets safe from loss. 
 * See **[Save your seed](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#2-save-your-seed)** for an example strategy to drive 1000x improvement in user sentiment of defi-wallet as the most trusted name in non-custodial wallets.
+
+## Next Steps
+
+Explore the following content for recommendations on product improvements
+
+* [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
+* [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
