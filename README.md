@@ -19,7 +19,8 @@ b. Liquidity providers (who act as the counterparty to cross-chain swaps)
 c. Developers - building integrations inside the Wallet 
 d. Dapps - who integrate cross-chain atomic swaps into their platform e. Other community members - who help grow and govern the DAO 
 
-**The answer is c. Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.**
+**The answer is c c c (Developers! Developers! Developers!) 
+Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.**
 
 ![Developers](https://i1.sndcdn.com/artworks-000006621616-ej5015-t500x500.jpg)
 
