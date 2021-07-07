@@ -1,3 +1,12 @@
+**Table of Contents**
+
+* [README](https://github.com/alokm/defi-wallet/blob/main/README.md) - You are here
+* [Question-Answer](https://github.com/alokm/defi-wallet/blob/main/question-answer.md) - Start here!
+* [Problem Statement](https://github.com/alokm/defi-wallet/blob/main/problem-statement.md) 
+* [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
+* [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
+
+
 # Questions to answer:
 
 ## 1. What are the most important factors to consider when making the switch between product to platform? 
