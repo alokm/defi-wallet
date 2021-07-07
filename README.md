@@ -9,7 +9,7 @@
 
 # Questions to answer:
 
-1. What are the most important factors to consider when making the switch between product to platform? 
+## 1. What are the most important factors to consider when making the switch between product to platform? 
 
 The most important factors to consider when switching from product to platform are around how the incentives should changes to ensure that the platform drives the right incentives for the relevant stakeholders. In the case of defi-wallet, moving to a platform requires that the incentives and the go-to-market strategy are designed to ensure that *developer partners* are highly motivated to invest in defi-wallet and to continue to engage over time. By ensuring that *developer partners* are invested in the success of defi-wallet, we can ensure that the transition from product to platform is more likely to be a success.
 
@@ -27,7 +27,7 @@ For a strategy that answers this question of which factors to consider when swit
   
 See [What is DeFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi) for an example strategy to get started.
 
-2. How would you prioritize the different Liquality users when thinking about who will be most critical to the success of the project, and what actions would you take to prioritize them? 
+## 2. How would you prioritize the different Liquality users when thinking about who will be most critical to the success of the project, and what actions would you take to prioritize them? 
 a. Wallet end users
 b. Liquidity providers (who act as the counterparty to cross-chain swaps) 
 c. Developers - building integrations inside the Wallet 
@@ -40,11 +40,11 @@ Developers are the most important user persona in ensuring the success of the de
 
 To win in this early and fast-evolving market, the answer is to prioritize the needs of developer partners over the needs of all other user personas in the short-term. While it is always nice to have a better user experience for wallet end users, the more capable platform is the more likely to win in the long-term. To have the more capable platform, defi-wallet needs to position itself as the most compelling wallet integration option for the diverse developer partner community. **Win the developer community, and all other user personas will be easier wins.**
 
-3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
+## 3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
 
-4. What are the key metrics you would capture to track the project’s success, and which tools would you use to capture them (inside the wallet extension and mobile)? 
+## 4. What are the key metrics you would capture to track the project’s success, and which tools would you use to capture them (inside the wallet extension and mobile)? 
 
-5. What are some of the most important integrations you would prioritize into the Wallet? 
+## 5. What are some of the most important integrations you would prioritize into the Wallet? 
 
-6. Bonus: how would you prevent malicious integrations from being accepted into the Wallet?
+## 6. Bonus: how would you prevent malicious integrations from being accepted into the Wallet?
 
