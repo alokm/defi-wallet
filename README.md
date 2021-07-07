@@ -24,6 +24,8 @@ In a heterogeneous multi-chain platform, it matters:
 For a strategy that answers this question of which factors to consider when switching from product to platform, consider the factors defined above as well as this key takaway: 
   
 **More and deeper integrations with the emerging DeFi community of protocols, combined with a unified discovery and onboarding user experience for defi-wallet are the best way to ensure success as you transition to a platform.**
+  
+See [What is DeFi](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#3-what-is-defi) for an example strategy to get started.
 
 2. How would you prioritize the different Liquality users when thinking about who will be most critical to the success of the project, and what actions would you take to prioritize them? 
 a. Wallet end users
