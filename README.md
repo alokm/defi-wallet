@@ -11,12 +11,17 @@
 
 1. What are the most important factors to consider when making the switch between product to platform? 
 
-The most important factors to consider when switching from product to platform are around how the incentives should changes and how to ensure that the platform drives the right incentives for the relevant stakeholders. In the case of defi-wallet, moving to a platform requires that the incentives and the go-to-market strategy are designed to ensure that developer partners are highly motivated to invest in defi-wallet and to engage over time. By ensuring that developer partners are invested in the success of defi-wallet the transition from product to platform is likely to be a success.
+The most important factors to consider when switching from product to platform are around how the incentives should changes and how to ensure that the platform drives the right incentives for the relevant stakeholders. In the case of defi-wallet, moving to a platform requires that the incentives and the go-to-market strategy are designed to ensure that developer partners are highly motivated to invest in defi-wallet and to continue to engage over time. By ensuring that developer partners are invested in the success of defi-wallet, we can ensure that the transition from product to platform is more likely to be a success.
 
 2. How would you prioritize the different Liquality users when thinking about who will be most critical to the success of the project, and what actions would you take to prioritize them? 
 a. Wallet end users
-b. Liquidity providers (who act as the counterparty to cross-chain swaps) c. Developers - building integrations inside the Wallet 
+b. Liquidity providers (who act as the counterparty to cross-chain swaps) 
+c. Developers - building integrations inside the Wallet 
 d. Dapps - who integrate cross-chain atomic swaps into their platform e. Other community members - who help grow and govern the DAO 
+
+The answer is c. Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.
+
+!(https://i1.sndcdn.com/artworks-000006621616-ej5015-t500x500.jpg)
 
 3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
 
