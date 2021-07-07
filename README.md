@@ -19,11 +19,11 @@ b. Liquidity providers (who act as the counterparty to cross-chain swaps)
 c. Developers - building integrations inside the Wallet 
 d. Dapps - who integrate cross-chain atomic swaps into their platform e. Other community members - who help grow and govern the DAO 
 
-The answer is c. Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.
+**The answer is c. Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.**
 
 ![Developers](https://i1.sndcdn.com/artworks-000006621616-ej5015-t500x500.jpg)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+To win in this early and fast-evolving market, the answer is to prioritize the needs of developer partners over the needs of all other user personas in the short-term. While it is always nice to have a better user experience for wallet end users, the more capable platform is the more likely to win in the long-term. To have the more capable platform, defi-wallet needs to position itself as the most compelling wallet integration option for the diverse developer partner community. **Win the developer community, and all other user personas will be easier wins.**
 
 3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
 
