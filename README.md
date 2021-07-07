@@ -21,7 +21,9 @@ d. Dapps - who integrate cross-chain atomic swaps into their platform e. Other c
 
 The answer is c. Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.
 
-!(https://i1.sndcdn.com/artworks-000006621616-ej5015-t500x500.jpg)
+![Developers](https://i1.sndcdn.com/artworks-000006621616-ej5015-t500x500.jpg)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
 
