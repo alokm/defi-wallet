@@ -46,10 +46,21 @@ To win in this early and fast-evolving market, the answer is to prioritize the n
 **Win the developer community, and all other user personas will be easier wins.**
 
 ## 3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
+  
+Changing from product to platform isn't really about the user experience. It isn't really about the user in fact. It is about the *developer partner* and ensuring that the transition happens with close engagement to this user persona building trust and maintaining it through high integrity actions and clear and open communication. Without the trust of the *developer partner* community you cannot have a successfull platform.
 
 ## 4. What are the key metrics you would capture to track the project’s success, and which tools would you use to capture them (inside the wallet extension and mobile)? 
+  
+See response for dfd
 
 ## 5. What are some of the most important integrations you would prioritize into the Wallet? 
+  
+* focus not just on the number of integrations, but the depth and quality of those integrations
+* for new integrations use a filter based on: community demand, general popularity, developer interest in leading integration
 
 ## 6. Bonus: how would you prevent malicious integrations from being accepted into the Wallet?
 
+* you cannot prevent it completely but that doesn't mean we shouldn't try
+* consider requiring publishers post a bounty proportional to assets under management to serve as insurance against rug-pulls and other counter-party risks
+* code reviews are nice but it is too much of a burden on the community and the developer partners to audit all code before it reaches the app store
+* reputation is the best bang/buck solution for building high-trust partners onto the platform over time. Invest heavily in the reputation management system for a protocol publisher.
