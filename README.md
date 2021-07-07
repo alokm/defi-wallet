@@ -21,7 +21,9 @@ In a heterogeneous multi-chain platform, it matters:
 2. How deep is the integration? Is it just atomic swaps or does it go deeper?
 3. What is the platform's approach to showcasing and aiding in discovery and adoption of new protocols?
   
-For a strategy that answers this question of which factors to consider when switching from product to platform, consider the factors defined above as well as this key takaway: **More and deeper integrations with the emerging DeFi community of protocols, combined with a unified discovery and onboarding user experience for defi-wallet are the best way to ensure success as you transition to a platform.**
+For a strategy that answers this question of which factors to consider when switching from product to platform, consider the factors defined above as well as this key takaway: 
+  
+**More and deeper integrations with the emerging DeFi community of protocols, combined with a unified discovery and onboarding user experience for defi-wallet are the best way to ensure success as you transition to a platform.**
 
 2. How would you prioritize the different Liquality users when thinking about who will be most critical to the success of the project, and what actions would you take to prioritize them? 
 a. Wallet end users
