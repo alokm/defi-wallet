@@ -67,11 +67,11 @@ See response for [Backend Operations](https://github.com/alokm/defi-wallet/blob/
 
 ## 5. What are some of the most important integrations you would prioritize into the Wallet? 
   
-* Focus not just on the number of integrations, but the depth and quality of those integrations
+* Focus not just on the number of integrations, but the depth and quality of those integrations. For example how easy is it for me to stake or borrow on a supported protocol from within defi-wallet?
 * For new integrations use a filter based on: community demand, general popularity, developer interest in leading integration
 
 ## 6. Bonus: how would you prevent malicious integrations from being accepted into the Wallet?
 
-* You cannot prevent it completely but that doesn't mean we shouldn't try.
+* You cannot prevent it completely but that doesn't mean we shouldn't try. This is an ongoing community governance effort that deserves top priority.
 * Consider requiring publishers to post a bounty proportional to assets under management to serve as insurance against rug-pulls and other counter-party risks
 * Reputation is the best bang/buck solution for building high-trust partners onto the platform over time. Invest heavily in the reputation management system for a protocol publisher.
