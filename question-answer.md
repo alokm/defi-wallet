@@ -38,7 +38,7 @@ a. Wallet end users
 
 b. Liquidity providers (who act as the counterparty to cross-chain swaps) 
 
-c. Developers - building integrations inside the Wallet 
+**c. Developers - building integrations inside the Wallet** 
 
 d. Dapps - who integrate cross-chain atomic swaps into their platform 
   
