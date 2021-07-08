@@ -51,7 +51,7 @@ Developers are the most important user persona in ensuring the success of the de
 
 ![Developers](https://i1.sndcdn.com/artworks-000006621616-ej5015-t500x500.jpg)
 
-To win in this early and fast-evolving market, the answer is to prioritize the needs of *developer partners* over the needs of all other user personas in the short-term. While it is always nice to have a better user experience for wallet end users, the more capable platform is the more likely to win in the long-term. To have the more capable platform, defi-wallet needs to position itself as the most compelling wallet integration option for the diverse *developer partner* community. 
+To win in this early and fast-evolving market, the answer is to prioritize the needs of *developer partners* over the needs of all other user personas in the short-term. While it is always nice to have a better user experience for wallet end users, the more capable a platform is the more likely to win in the long-term. To have the more capable platform, defi-wallet needs to position itself as the most compelling wallet integration option for the diverse *developer partner* community. 
   
 **Win the developer community, and all other user personas will be easier wins.**
 
