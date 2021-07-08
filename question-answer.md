@@ -22,6 +22,7 @@ By ensuring that *developer partners* are invested in the long-term success of d
 The difference between a product and a platform is like the difference between a store and a shopping mall. As defi-wallet transitions to a platform, the key success factors change. No longer is it good enough to have a nice customer-facing app with good UX and powerful utility, now interoperability and support for <insert my favorite protocol> are what really matters to users. 
   
 **Question:** How well does the platform work as an interoperable open baazar for monetary protocols? 
+ 
 **Answer:** This is how well the product has transformed into a platform.
   
 In a heterogeneous multi-chain platform, it matters: 
