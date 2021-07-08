@@ -11,11 +11,17 @@
 
 ## 1. What are the most important factors to consider when making the switch between product to platform? 
 
-The most important factors to consider when switching from product to platform are about how the incentives should change to ensure the platform drives the right incentives for the relevant stakeholders. In the case of defi-wallet, moving to a platform requires that the incentives and the go-to-market strategy are designed to ensure that *developer partners* are prioritised and that they are highly motivated to invest in defi-wallet and to continue to engage over time. By ensuring that *developer partners* are invested in the long-term success of defi-wallet, we can ensure that the transition from product to platform is more likely to be a huge success.
+The most important factors to consider when switching from product to platform are: 
+
+* how the incentives should change to ensure the platform aligns incentives for the relevant stakeholders. 
+
+* aligning incentives and go-to-market strategy to ensure that *developer partners* are prioritised and they are highly motivated to continue to invest in defi-wallet over time. 
+ 
+By ensuring that *developer partners* are invested in the long-term success of defi-wallet, we can ensure that the transition from product to platform is more likely to be a huge success.
 
 The difference between a product and a platform is like the difference between a store and a shopping mall. As defi-wallet transitions to a platform, the key success factors change. No longer is it good enough to have a nice customer-facing app with good UX and powerful utility, now interoperability and support for <insert my favorite protocol> are what really matters to users. 
   
-How well does the platform work as an interoperable open baazar for monetary protocols? 
+**Question:** How well does the platform work as an interoperable open baazar for monetary protocols? 
   
 In a heterogeneous multi-chain platform, it matters: 
 1. Which popular protocols are supported? (How many of the top chains? Which ones?)
@@ -34,7 +40,9 @@ b. Liquidity providers (who act as the counterparty to cross-chain swaps)
 
 c. Developers - building integrations inside the Wallet 
 
-d. Dapps - who integrate cross-chain atomic swaps into their platform e. Other community members - who help grow and govern the DAO 
+d. Dapps - who integrate cross-chain atomic swaps into their platform 
+  
+e. Other community members - who help grow and govern the DAO 
 
 **The answer is c c c (Developers! Developers! Developers!) 
 Developers are the most important user persona in ensuring the success of the defi-wallet ecosystem.**
@@ -47,7 +55,9 @@ To win in this early and fast-evolving market, the answer is to prioritize the n
 
 ## 3. What are some of the critical user experience and product changes that we would need to change in the current product to allow it to become an open platform? Feel free to present any mock ups or annotated drawings of current product 
   
-Changing from product to platform isn't really about the user experience. It isn't really about the user in fact. It is about the *developer partner* and ensuring that the transition happens with close engagement to this user persona building trust and maintaining it through high integrity actions and clear and open communication. Without the trust of the *developer partner* community you cannot have a successfull platform.
+* Changing from product to platform isn't really about the user experience. It isn't really about the user in fact. 
+* It is about the *developer partner* and ensuring that the transition happens with close engagement to this user persona building trust and maintaining it through high integrity actions and clear and open communication. 
+* Without the trust of the *developer partner* community you cannot have a successfull platform.
 
 ## 4. What are the key metrics you would capture to track the project’s success, and which tools would you use to capture them (inside the wallet extension and mobile)? 
   
@@ -55,12 +65,11 @@ See response for [Backend Operations](https://github.com/alokm/defi-wallet/blob/
 
 ## 5. What are some of the most important integrations you would prioritize into the Wallet? 
   
-* focus not just on the number of integrations, but the depth and quality of those integrations
-* for new integrations use a filter based on: community demand, general popularity, developer interest in leading integration
+* Focus not just on the number of integrations, but the depth and quality of those integrations
+* For new integrations use a filter based on: community demand, general popularity, developer interest in leading integration
 
 ## 6. Bonus: how would you prevent malicious integrations from being accepted into the Wallet?
 
-* you cannot prevent it completely but that doesn't mean we shouldn't try
-* consider requiring publishers post a bounty proportional to assets under management to serve as insurance against rug-pulls and other counter-party risks
-* code reviews are nice but it is too much of a burden on the community and the developer partners to audit all code before it reaches the app store
-* reputation is the best bang/buck solution for building high-trust partners onto the platform over time. Invest heavily in the reputation management system for a protocol publisher.
+* You cannot prevent it completely but that doesn't mean we shouldn't try.
+* Consider requiring publishers to post a bounty proportional to assets under management to serve as insurance against rug-pulls and other counter-party risks
+* Reputation is the best bang/buck solution for building high-trust partners onto the platform over time. Invest heavily in the reputation management system for a protocol publisher.
