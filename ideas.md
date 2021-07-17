@@ -10,3 +10,6 @@ Per [Wikipedia](https://en.wikipedia.org/wiki/React_Native):
 * React Native is an open-source mobile application framework created by Facebook, Inc.
 * It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use React's 
 framework along with native platform capabilities.
+
+# Integrate Lightning as the instant final settlement backbone to access multichain
+[Lightning](https://github.com/lnbook/lnbook)
