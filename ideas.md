@@ -14,4 +14,5 @@ framework along with native platform capabilities.
 # Integrate Lightning 
 
 As the instant final settlement solution to complement Bitcoin and other chains
+
 [Lightning](https://github.com/lnbook/lnbook)
