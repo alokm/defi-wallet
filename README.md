@@ -7,3 +7,4 @@
 * [Problem Statement](https://github.com/alokm/defi-wallet/blob/main/problem-statement.md) 
 * [User Facing Improvements](https://github.com/alokm/defi-wallet/blob/main/user-facing.md#user-facing-product-improvements)
 * [Backend Improvements](https://github.com/alokm/defi-wallet/blob/main/Backend.md#backend-product-operations)
+* [Ideas](https://github.com/alokm/defi-wallet/blob/main/ideas.md)
