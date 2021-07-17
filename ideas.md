@@ -11,5 +11,7 @@ Per [Wikipedia](https://en.wikipedia.org/wiki/React_Native):
 * It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use React's 
 framework along with native platform capabilities.
 
-# Integrate Lightning as the instant final settlement backbone to access multichain
+# Integrate Lightning 
+
+As the instant final settlement solution to complement Bitcoin and other chains
 [Lightning](https://github.com/lnbook/lnbook)
