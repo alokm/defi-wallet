@@ -31,4 +31,16 @@
   * This savings continues to compound over time as we continue to develop and maintain the app
   * The biggest benefit of a common codebase compiling cross-platform is reduced complexity which makes everything faster and easier
 
+## Unleashing the developer community to accelerate innovation
+
+* By reducing complexity by eliminating the need to maintain native iOS and Android code, and making the strategic decision to develop exclusively in React Native defi-wallet can unlock the potential energy of the largest segment of developers in the world, namely Javascript developers who know or want to learn React
+
+* We can harness this energy by open-sourcing our application and combining it with a comprehensive tutorial on how to build such an app from scratch, in order to teach any developer with Javascript skills how to build a DeFi crypto wallet from scratch. 
+
+* This will allow us to:
+  * Teach Javascript developers how to build a real-world React Native application with meaninful complexity. i.e. Not just a hello world app.
+  * Teach a small army of Javascript developers how DeFi wallet mobile app works and how it is architected. This will allow them to contribute.
+  * Build good will among a small army of Javascript developers for helping them grow as developers
+  * Profit!! 
+
 
