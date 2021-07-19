@@ -16,3 +16,4 @@
 * Some native interfaces exist to low-level hardware such as phone camera and microphone, secure enclave, or gyroscope, etc.
 * Where React Native and Expo hit their limits the option exists to 'eject' to native code that interoperates seamlessly
 * If the project is successful and little or no native code needs to be generated for either platform (iOS, Android) then it is possible to maintain a nearly uniform single codebase that compiles across platform with only configuration changes
+* If we are successful in building a single codebase that cross-compiles to both Android and iOS we can expect to **save 30-40% of the time and cost vs building two native apps from scratch**. This savings continues to compound over time as we continue to develop and maintain the app
