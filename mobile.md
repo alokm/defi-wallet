@@ -2,9 +2,7 @@
 
 ## Problem with traditional native app development
 
-* Building native apps is expensive and requires completely unique and non-fungible development skills for each of the two major platforms: iOS and Android.
-
-* Building native apps involves acquiring and maintaining two additional technology stacks (Objective-C/Swift and Java/Kotlin) in addition to web
+* Building native apps is expensive and requires completely unique and non-fungible development skills for each of the two major platforms: iOS and Android to acquire and maintaining in-house expertise on two new additional technology stacks in addition to web i.e. Objective-C/Swift and Java/Kotlin.
 
 * Building 2 native apps with two separate native technologies adds significant cost, time, and complexity to the project
 
