@@ -1,4 +1,4 @@
-![Metamask screenshot](https://drive.google.com/file/d/1ZHfrq4mjkB3vPAhLyV581AqXjwXXgr_z/view?usp=sharing)
+![Metamask screenshot](https://github.com/alokm/defi-wallet/blob/main/metamask_analytics_request.png)
 
 Help Us Improve MetaMask
 MetaMask would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Ethereum ecosystem.
